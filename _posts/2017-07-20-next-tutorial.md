@@ -1,3 +1,5 @@
+title: SSIBAL
+
 \---
 RaspMusic 
 Raspmusic은 소형점포주에게 부담되지 않으며 점포 내 음악을 틀어놓을 수 있도록 설계된 MVP제품입니다.
