@@ -1,9 +1,9 @@
 \---
-title: RaspMusic 
-description: Raspmusic은 소형점포주에게 부담되지 않으며 점포 내 음악을 틀어놓을 수 있도록 설계된 MVP제품입니다.
-categories:
- - Main
-tags: With Raspmusic, Be Happy.
+RaspMusic 
+Raspmusic은 소형점포주에게 부담되지 않으며 점포 내 음악을 틀어놓을 수 있도록 설계된 MVP제품입니다.
+
+
+- With Raspmusic, Be Happy.
 ---
 
 > Raspmusic과 함께한다면, 당신의 가게는 항상 손님은 물론 행복과 활기가 가득찰 겁니다.
