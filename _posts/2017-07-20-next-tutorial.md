@@ -1,4 +1,4 @@
----
+\---
 title: RaspMusic 
 description: Raspmusic은 소형점포주에게 부담되지 않으며 점포 내 음악을 틀어놓을 수 있도록 설계된 MVP제품입니다.
 categories:
@@ -11,6 +11,12 @@ tags: With Raspmusic, Be Happy.
 <!-- more -->
 
 [Live Preview](http://simpleyyt.github.io/jekyll-theme-next/)
+## Brand
+* Brand Image
+![Desktop Preview](https://postfiles.pstatic.net/MjAxNzEyMThfMTk3/MDAxNTEzNTI2MDk4NDg1.b6VJYFCJDoLTlFqBtGTNOi3CjpI7s-zYPiUntONhhyQg.QaUTrEtf963QaxynZtGQyU-5XxZynylZVjcmEKfYi5Qg.PNG.funclan0924/logos.png?type=w966)
+
+* Device Image
+![Desktop Preview](https://postfiles.pstatic.net/MjAxNzEyMThfNDkg/MDAxNTEzNTI2MTY5OTI3.V56l9rT3FRnHcZQKt6vr_YFEpDH1CV6C9pGGDl1C6V0g.CTqejVGbaI_KOF_9T-Um6_bLtX5SDnCk9ArE7PK7TQQg.PNG.funclan0924/design.png?type=w966)
 
 ## Design Process
 
