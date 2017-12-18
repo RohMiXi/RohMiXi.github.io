@@ -7,9 +7,7 @@ discription: Raspmusic은 소형점포주에게 부담되지 않으며 점포 �
 
 > Raspmusic과 함께한다면, 당신의 가게는 항상 손님은 물론 행복과 활기가 가득찰 겁니다.
 
-<!-- more -->
 
-[Live Preview](http://simpleyyt.github.io/jekyll-theme-next/)
 ## Brand
 * Brand Image
 ![Desktop Preview](https://postfiles.pstatic.net/MjAxNzEyMThfMTk3/MDAxNTEzNTI2MDk4NDg1.b6VJYFCJDoLTlFqBtGTNOi3CjpI7s-zYPiUntONhhyQg.QaUTrEtf963QaxynZtGQyU-5XxZynylZVjcmEKfYi5Qg.PNG.funclan0924/logos.png?type=w966)
