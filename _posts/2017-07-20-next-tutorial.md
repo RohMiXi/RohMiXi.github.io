@@ -1091,14 +1091,14 @@ tags: With Raspmusic, Be Happy.
 
 
 
-	if __name__ == '__main__':
+		if __name__ == '__main__':
 
-   	 try:
-   	     main()
-   	 except KeyboardInterrupt:
-    	    pass
-   	 finally:
-   	     lcd_byte(0x01, LCD_CMD)
+   	 	try:
+   	 	    main()
+   		 except KeyboardInterrupt:
+    	   	 	pass
+   	 	finally:
+   	    		 lcd_byte(0x01, LCD_CMD)
 	
     
 ## Video
